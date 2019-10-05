@@ -74,5 +74,5 @@ And, Using Grid Search we found that to get the accuracy of 96% for KNN and Logi
 .
 
 
-[Jupyter Notebook](.WineQuality-Classification/EDA_ModelEvaluation_Report/LogisticRegression_WineQuality_V1.ipynb)
+[Jupyter Notebook](.WineQuality-Classification/EDA_ModelEvaluation_Report/Regression_WineQuality_V1.ipynb)
 
