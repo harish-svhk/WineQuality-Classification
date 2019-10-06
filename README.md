@@ -34,6 +34,14 @@ Below is a table showing names of all the columns and their description.
 | Red wine  | ![image.png](images/redwinedataset.png) |
 | White wine | ![image.png](images/whitewinedataset.png) |
 
+#### Checking the confusion matrix first without new category for quality and then with 4 new category for quality(1-Poor, 2-Average, 3 – Good and 4 Excellent) and finally with 3 new category
+<p align="center">
+  <img width="460" height="300" src="images/CM.jpg">
+  <br>
+  Observation : The accuracy increased when the quality was categorised into 3 new categories as Poor, Good and Excellent. 
+  By looking at all the matrices, we can say that KNN and Logistic Regression has a higher chance in **correctly predicting all the new quality class correctly** 
+
+</p>
 
 ### CONCLUSION
 
